@@ -1,0 +1,44 @@
+@media (max-width: 980px) {
+  .header-inner {
+    grid-template-columns: 1fr auto;
+  }
+
+  .nav {
+    display: none;
+  }
+
+  .hero-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-media {
+    justify-content: flex-start;
+  }
+
+  .highlights {
+    grid-template-columns: 1fr;
+  }
+
+  .cards {
+    grid-template-columns: 1fr;
+  }
+
+  .gallery {
+    grid-template-columns: 1fr;
+    grid-template-rows: 220px 220px 220px;
+  }
+
+  .shot-1 {
+    grid-row: auto;
+  }
+
+  .cta-strip {
+    grid-template-columns: 1fr;
+    align-items: start;
+  }
+
+  .footer-inner {
+    grid-template-columns: 1fr;
+  }
+}
+

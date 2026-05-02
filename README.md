@@ -1,10 +1,10 @@
-## DF Cenografia — Landing Page
+## DF Revestimentos — Landing Page
 
-Landing page estática (HTML/CSS) focada em **cenografia em tecido tensionado** para:
+Landing page estática (HTML/CSS) focada em **DF Revestimentos em tecidos**:
 
-- Eventos corporativos
-- Revestimento de stands
-- Envelopamento para obras e ambientes temporários
+- Revestimento em tecidos tensionados
+- Backdrop
+- Instagramáveis
 
 ### Estrutura
 
