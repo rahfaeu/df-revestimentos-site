@@ -15,7 +15,7 @@ df-revestimentos-site/
 ├── netlify.toml
 ├── README.md
 └── assets/
-    ├── logo.svg
+    ├── logo.png
     ├── hero.webp
     └── gallery/
 ```
